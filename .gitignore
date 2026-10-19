@@ -1,0 +1,11 @@
+.env
+*.env
+__pycache__/
+*.pyc
+*.log
+
+# Opciones configuradas:
+# ----------------------
+# .env y *.env -> el token de la API de Zabbix; .env.example sí se sube
+# __pycache__/ y *.pyc -> archivos que genera Python al ejecutar el informe
+# *.log -> logs de instalación o de pruebas que copie por despiste

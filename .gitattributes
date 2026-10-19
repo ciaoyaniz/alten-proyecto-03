@@ -1,0 +1,7 @@
+* text=auto eol=lf
+*.ps1 text eol=crlf
+
+# Opciones configuradas:
+# ----------------------
+# * text=auto eol=lf -> todo el texto con saltos de línea de Linux
+# *.ps1 eol=crlf -> los scripts de Windows con saltos de Windows
